@@ -3,15 +3,15 @@
 An instagram-like web app that allows people to register, login, signout, post a photo and then view it, and view all photos on the site.
 
 
-![ScreenShot](screenshot.jpg)
+![Sign up](sign_up.png)
 
-![ScreenShot](screenshot.jpg)
+![Login](login.png)
 
-![ScreenShot](screenshot.jpg)
+![Successful Sign In](successful_sign_in.png)
 
 
-![ScreenShot](screenshot.jpg)
+![New Post Page](new_post_empty.png)
 
-![ScreenShot](screenshot.jpg)
+![Uploaded a photo](new_post_filled_info.png)
 
-![ScreenShot](screenshot.jpg)
+![Homepage](homepage.png)
