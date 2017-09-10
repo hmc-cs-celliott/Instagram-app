@@ -1,24 +1,17 @@
-# README
+# Instagram app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An instagram-like web app that allows people to register, login, signout, post a photo and then view it, and view all photos on the site.
 
-Things you may want to cover:
 
-* Ruby version
+![ScreenShot](screenshot.jpg)
 
-* System dependencies
+![ScreenShot](screenshot.jpg)
 
-* Configuration
+![ScreenShot](screenshot.jpg)
 
-* Database creation
 
-* Database initialization
+![ScreenShot](screenshot.jpg)
 
-* How to run the test suite
+![ScreenShot](screenshot.jpg)
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![ScreenShot](screenshot.jpg)
